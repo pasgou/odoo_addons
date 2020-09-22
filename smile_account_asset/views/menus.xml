@@ -6,7 +6,7 @@
 
         <menuitem id="menu_account_assets_parent"
             name="Assets"
-            parent="account.menu_finance"
+            parent="account.menu_finance.menu_finance_entries"
             groups="account.group_account_user"
             sequence="4"/>
 

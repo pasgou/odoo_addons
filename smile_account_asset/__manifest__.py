@@ -4,7 +4,7 @@
 
 {
     "name": "Assets Management",
-    "version": "0.2",
+    "version": "0.2.k",
     "license": 'AGPL-3',
     "depends": [
         "uom",
@@ -41,7 +41,7 @@ Suggestions & Feedback to: Corentin Pouhet-Brunerie
         "data/account_asset_depreciation_methods.xml",
         "data/account_asset_sequence.xml",
         "data/report_paperformat.xml",
-
+#        "data/account_asset_category.xml"
         "report/account_asset_depreciations_report.xml",
         "report/account_asset_fiscal_deductions_report.xml",
         "report/account_asset_in_progress_report.xml",
